@@ -1,0 +1,25 @@
+# core
+PyYAML==6.0
+fabric==2.6.0
+proxmoxer==1.2.0
+pyTelegramBotAPI==4.1.1
+
+# dev tools
+black
+commitizen
+flake8
+invoke
+isort[requirements_deprecated_finder]
+pip-tools
+pre-commit
+
+# test
+faker
+pytest-cov
+pytest-mock
+pytest-sugar
+tox
+
+# dist
+build
+twine
