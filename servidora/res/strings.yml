@@ -1,4 +1,4 @@
---- 
+---
 CMD : 'Greetings'
 STR_START : "*Thank you* {} for being our first alpha tester.
 Type /provision to get started."
@@ -14,8 +14,8 @@ STR_TERMS_OF_SERVICE: "*TERMS OF SERVICE* \n
                         \n
                         %Do you agree to terms of service?%
                         "
-STR_ALREADY_PROVISIONED: "You currently have a server assigned to your telegram id. Use /control to manage your server." 
-STR_ALREADY_REQUESTED: "You have a pending request. Please wait until that request is done."        
+STR_ALREADY_PROVISIONED: "You currently have a server assigned to your telegram id. Use /control to manage your server."
+STR_ALREADY_REQUESTED: "You have a pending request. Please wait until that request is done."
 STR_TERMS_OF_SERVICE_ACCEPT : "I AGREE"
 STR_TERMS_OF_SERVICE_REJECT : "I DISAGREE"
 STR_SELECT_OS : "*OS SELECTION*\n
@@ -24,7 +24,7 @@ STR_SELECT_OS : "*OS SELECTION*\n
 STR_PROVISION_CONFIRMATION: "*CONFIRMATION*\n
                             \n You have selected *{}* as your operating system. Proceed to checkout?"
 STR_PROVISION_CONFIRMATION_YES: "Checkout"
-STR_PROVISION_CONFIRMATION_NO: "Change OS"            
+STR_PROVISION_CONFIRMATION_NO: "Change OS"
 STR_PROVISION_CHECKOUT  : "Your request has been *sent* to the admin.\n
                           \n
                           I will notify you once it's accepted. Because my admin is a _lazy human_ it might take up-to 1 hour for him to approve your request. If you don't get a confirmation within an hour feel free to shout at him @musesisay "
@@ -32,24 +32,24 @@ STR_PROVISION_ACCEPTED : "*Congratulations* %{}% ,\n
                           \n
                           Your request has been approved. I will start provisioning your server right away. Type /login to get a login URL.\n
                           \n
-                          *Fun fact* it only takes me 30 second to get your server ready. Try to beat that Linode"    
+                          *Fun fact* it only takes me 30 second to get your server ready. Try to beat that Linode"
 STR_PROVISION_REJECTED : "*ahhh*...i got bad news\n
-                          Admin said he doesn't know you that much to approve your request. Contact him  for more information as to why he declined your request @musesisay"   
+                          Admin said he doesn't know you that much to approve your request. Contact him  for more information as to why he declined your request @musesisay"
 STR_PROVISION_FAILED : "Your request failed to be processed due to internal server error. I have notified the admin. He will get back to you shortly."
 STR_PROVISION_REQUEST: "*Date*: {} \n
                         *User ID*: {} {} \n
                         *STATUS* : {}\n
-                        \n 
+                        \n
                         *{}* would like access access to %{}% server. Shall I grant the wish?
-                        " 
+                        "
 STR_PROVISION_REQUEST_GRANT :  "YES"
-STR_PROVISION_REQUEST_DENY : "NO"                          
-STR_PROVISION_REQUEST_UPDATE: " *Date*: {} 
-                        \n*User ID*: {} 
+STR_PROVISION_REQUEST_DENY : "NO"
+STR_PROVISION_REQUEST_UPDATE: " *Date*: {}
+                        \n*User ID*: {}
                         \n*STATUS* : {}\n
-                        \n 
+                        \n
                         *{}* was granted access to {} server on {}.
-                        " 
+                        "
 STR_SELECT_OP : "Select Operation:"
 STR_NO_VM_ASSIGNED: "You have *no* server assigned to you. Please /provision to request a server"
 STR_VM_POWER_ON : "Your server has powered *on*"

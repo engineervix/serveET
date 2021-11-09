@@ -9,14 +9,14 @@ proxmox:
   host : # ip or FQDN of proxmox server
   node : # proxmox node
   user : # user to authenticate as
-  token: 
-    name : 
-    value : 
+  token:
+    name :
+    value :
 
 template_vm:
     user: # default user for vm
     password: # defalt password for vm
-    vm_id: # start of vm id 
+    vm_id: # start of vm id
     template_vms: # list of template vm's
-      - name : 
-        vm_id : 
+      - name :
+        vm_id :
