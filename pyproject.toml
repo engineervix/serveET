@@ -9,7 +9,7 @@ include = '\.pyi?$'
 
 [tool.isort]
 profile = "black"
-known_third_party = ["colorama", "fabric", "invoke", "proxmoxer", "telebot", "util", "yaml"]
+known_third_party = ["colorama", "fabric", "faker", "invoke", "proxmoxer", "pytest", "telebot", "util", "yaml"]
 
 [tool.commitizen]
 version = "0.0.0"
