@@ -3,6 +3,10 @@
 
 > a telegram bot for automating virtual machine provisioning.
 
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/engineervix/serveET/dev.svg)](https://results.pre-commit.ci/latest/github/engineervix/serveET/dev)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+
 This is part of my **serveEthiopia project**, a project aimed at providing resources for fellow Ethiopians to help them in their IT career. You can
 
 ```sh
